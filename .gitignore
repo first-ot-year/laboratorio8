@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tests & coverage
+coverage.xml
+.coverage
+htmlcov/
+
+# Databases (generated at runtime)
+*.db
+
+# Environment variables (contain credentials)
+.env
+
+# SonarQube scanner cache
+.scannerwork/
+
+# IDE
+.idea/
+.vscode/
