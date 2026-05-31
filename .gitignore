@@ -26,3 +26,6 @@ htmlcov/
 # IDE
 .idea/
 .vscode/
+
+.sonar
+.env.example
